@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+main{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	height: 100vh;
+	flex-direction: column;
+	max-width: 920px;
+}
+.correct {
+	background-color: rgb(105, 219, 105);
+}
+
+.incorrect {
+	background-color: red;
+}

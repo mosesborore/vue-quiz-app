@@ -1,0 +1,259 @@
+{
+  "quiz": {
+    "space": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "answers": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many moons does Mars have?",
+        "answers": ["1", "2", "3", "4"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the name of the galaxy we live in?",
+        "answers": ["Andromeda", "Milky Way", "Sombrero", "Whirlpool"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Venus", "Saturn", "Mars", "Mercury"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Who was the first person to walk on the Moon?",
+        "answers": [
+          "Buzz Aldrin",
+          "Neil Armstrong",
+          "Yuri Gagarin",
+          "John Glenn"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the closest planet to the Sun?",
+        "answers": ["Venus", "Earth", "Mercury", "Mars"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which planet has a day longer than its year?",
+        "answers": ["Earth", "Venus", "Mars", "Neptune"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the smallest planet in our solar system?",
+        "answers": ["Mars", "Earth", "Pluto", "Mercury"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which planet is known for its rings?",
+        "answers": ["Earth", "Neptune", "Saturn", "Uranus"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How long does it take for light from the Sun to reach Earth?",
+        "answers": ["1 minute", "8 minutes", "24 minutes", "1 hour"],
+        "correctAnswer": 1
+      }
+    ],
+    "history": [
+      {
+        "question": "Who was the first president of the United States?",
+        "answers": [
+          "George Washington",
+          "Abraham Lincoln",
+          "John Adams",
+          "Thomas Jefferson"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Which war was fought between the North and South regions of the United States?",
+        "answers": [
+          "World War I",
+          "Civil War",
+          "Revolutionary War",
+          "Vietnam War"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country was first to land a human on the Moon?",
+        "answers": ["Soviet Union", "United States", "China", "India"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+        "answers": ["Mayflower", "Santa Maria", "Endeavour", "Beagle"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who was the first emperor of Rome?",
+        "answers": ["Julius Caesar", "Augustus", "Nero", "Marcus Aurelius"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "In which year did World War II end?",
+        "answers": ["1943", "1944", "1945", "1946"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which empire built the Great Wall of China?",
+        "answers": [
+          "Mongol Empire",
+          "Qin Dynasty",
+          "Ottoman Empire",
+          "Roman Empire"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What was the primary cause of the Cold War?",
+        "answers": [
+          "Religious conflicts",
+          "Economic rivalry",
+          "Nuclear arms race",
+          "Ideological differences"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Who was the British Prime Minister during most of World War II?",
+        "answers": [
+          "Winston Churchill",
+          "Neville Chamberlain",
+          "Margaret Thatcher",
+          "Tony Blair"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the name of the ship on which the Treaty of Versailles was signed?",
+        "answers": [
+          "RMS Lusitania",
+          "HMS Dreadnought",
+          "HMS Victory",
+          "None of the above"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "science": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "answers": ["O2", "CO2", "H2O", "HO"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "answers": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What planet is known as the Earth’s twin?",
+        "answers": ["Mars", "Mercury", "Venus", "Saturn"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "answers": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which element is essential for bones and teeth?",
+        "answers": ["Potassium", "Calcium", "Magnesium", "Phosphorus"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which organ is primarily responsible for filtering blood?",
+        "answers": ["Heart", "Liver", "Kidney", "Lung"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which planet is the hottest in the solar system?",
+        "answers": ["Mars", "Mercury", "Venus", "Neptune"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How many bones are in the human body?",
+        "answers": ["206", "208", "210", "212"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What force keeps us on the ground?",
+        "answers": ["Magnetism", "Friction", "Gravity", "Inertia"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the smallest unit of life?",
+        "answers": ["Atom", "Molecule", "Cell", "Organ"],
+        "correctAnswer": 2
+      }
+    ],
+    "geography": [
+      {
+        "question": "Which is the longest river in the world?",
+        "answers": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "answers": ["Sydney", "Melbourne", "Perth", "Canberra"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which is the largest continent by land area?",
+        "answers": ["Africa", "Asia", "North America", "Europe"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which country has the most population?",
+        "answers": ["India", "United States", "Russia", "China"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which desert is the largest in the world?",
+        "answers": ["Sahara", "Arabian", "Gobi", "Antarctic Desert"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "What country is both in Europe and Asia?",
+        "answers": ["Turkey", "Russia", "Kazakhstan", "All of the above"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Which ocean is the deepest?",
+        "answers": ["Atlantic", "Pacific", "Indian", "Arctic"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Mount Everest is located in which country?",
+        "answers": ["China", "India", "Nepal", "Pakistan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the smallest country by land area?",
+        "answers": ["Monaco", "Vatican City", "Malta", "San Marino"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Which is the tallest mountain in the world?",
+        "answers": ["Mount Kilimanjaro", "K2", "Mount Everest", "Denali"],
+        "correctAnswer": 2
+      }
+    ],
+    "randomTrivia": [
+      {
+        "question": "How many colors are in a rainbow?",
+        "answers": ["5", "6", "7", "8"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country invented pizza?",
+        "answers": ["France", "Italy", "United States", "Spain"],
+        "correctAnswer": 1
+      }
+    ]
+  }
+}
